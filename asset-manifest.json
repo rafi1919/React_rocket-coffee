@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/rocket-coffee/static/css/main.c1425ab9.css",
-    "main.js": "/rocket-coffee/static/js/main.469e79f9.js",
+    "main.css": "/rocket-coffee/static/css/main.0ba50ffd.css",
+    "main.js": "/rocket-coffee/static/js/main.d764337a.js",
     "static/js/787.c6926682.chunk.js": "/rocket-coffee/static/js/787.c6926682.chunk.js",
     "static/media/astro1.png": "/rocket-coffee/static/media/astro1.d798824267bdea199fca.png",
     "static/media/astro2.png": "/rocket-coffee/static/media/astro2.81059685cbdd3ab86d24.png",
@@ -11,12 +11,12 @@
     "static/media/menu2.png": "/rocket-coffee/static/media/menu2.522abc9e3c5b8b6224c0.png",
     "static/media/logo.svg": "/rocket-coffee/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
     "index.html": "/rocket-coffee/index.html",
-    "main.c1425ab9.css.map": "/rocket-coffee/static/css/main.c1425ab9.css.map",
-    "main.469e79f9.js.map": "/rocket-coffee/static/js/main.469e79f9.js.map",
+    "main.0ba50ffd.css.map": "/rocket-coffee/static/css/main.0ba50ffd.css.map",
+    "main.d764337a.js.map": "/rocket-coffee/static/js/main.d764337a.js.map",
     "787.c6926682.chunk.js.map": "/rocket-coffee/static/js/787.c6926682.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1425ab9.css",
-    "static/js/main.469e79f9.js"
+    "static/css/main.0ba50ffd.css",
+    "static/js/main.d764337a.js"
   ]
 }
